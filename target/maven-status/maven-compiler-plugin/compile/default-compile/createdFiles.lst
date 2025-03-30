@@ -1,0 +1,9 @@
+com\ecom\ecomauthserver\Credential.class
+com\ecom\ecomauthserver\Producer.class
+com\ecom\ecomauthserver\Token.class
+com\ecom\ecomauthserver\TokenService.class
+com\ecom\ecomauthserver\EcomAuthServerApplication.class
+com\ecom\ecomauthserver\CredentialRepository.class
+com\ecom\ecomauthserver\MainRestController.class
+com\ecom\ecomauthserver\Analytic.class
+com\ecom\ecomauthserver\TokenRepository.class
